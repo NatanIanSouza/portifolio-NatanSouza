@@ -6,3 +6,5 @@ Este repositório tem como finalidade a apresentação dos recursos do GitHub e 
 14/06/2021 - Primeira aula sobre a introdução aos conceitos básicos do GitHub, foi aprendido criar uma conta Git, um repositório e a clonagem do mesmo em nossas máquinas pelo VSCODE.
 
 14/06/2021 - Envio dos arquivos iniciais do projeto, foi alocado no projeto os arquivos do Bootstrap e jQuery.
+
+14/06/2021 - Configurar nosso repositório para que ele se torne uma GitPage.

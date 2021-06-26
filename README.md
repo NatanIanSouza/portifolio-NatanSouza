@@ -10,3 +10,5 @@ Este repositório tem como finalidade a apresentação dos recursos do GitHub e 
 14/06/2021 - Configurar nosso repositório para que ele se torne uma GitPage.
 
 26/06/2021 - Iniciaremos a criação do nosso portifólio digital, para apresentação do nosso trabalho.
+
+26/06/2021 - Criação da Index do Projeto.

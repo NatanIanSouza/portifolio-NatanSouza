@@ -9,7 +9,22 @@ $(document).ready(function(){
         //Criar uma variável local que receba o atributo href do link
         let page = $(this).attr('href')
 
-        alert(page)
-    
+        //Verificar qual conteúdo eu devo carregar
+        switch(page){
+            //Se for para abria a página sobre mim...
+            case 'About': alert('Sobre mim'); 
+            break
+            //Se for para abria a página sobre mim...
+            case 'Works': alert('Meus trabalhos'); 
+            break
+            default: alert('link não encontrado')
+            //Se for para abria a página sobre mim...
+            case 'Client': alert('Meus clientes'); 
+            break
+            //Se for para abria a página sobre mim...
+            case 'Contact': alert('Meus contatos'); 
+            break
+        }
+
     })
 })

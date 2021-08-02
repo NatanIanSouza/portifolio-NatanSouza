@@ -17,13 +17,13 @@ $(document).ready(function(){
             //Se for para abria a página sobre mim...
             case 'Works': alert('Meus trabalhos'); 
             break
-            default: alert('link não encontrado')
             //Se for para abria a página sobre mim...
             case 'Client': alert('Meus clientes'); 
             break
             //Se for para abria a página sobre mim...
             case 'Contact': alert('Meus contatos'); 
             break
+            default: alert('link não encontrado')
         }
 
     })

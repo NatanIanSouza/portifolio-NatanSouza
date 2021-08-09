@@ -7,7 +7,7 @@ body {
 .bg-natan-souza {
     background: linear-gradient(to bottom, #5758BB, #9980FA, #D980FA);
     height: 105vh;
-    color: #9980FA;
+    color: #fff;
 }
 
 .bg-dark{
@@ -32,4 +32,8 @@ body {
 
 h1, h4 {
     font-family: 'Merienda', cursive;
+}
+
+a {
+    color: #fff;
 }

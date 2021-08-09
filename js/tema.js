@@ -11,7 +11,7 @@ $(document).ready(function(){
         $('.jumbotron').addClass('bg-light')
     })
 
-    $('.btn-light').click(function(light){
+    $('.btn-dark').click(function(light){
         light.preventDefault()
 
         //Remover o CSS existente do nosso tema (jumbotron)
@@ -22,7 +22,7 @@ $(document).ready(function(){
         $('.jumbotron').addClass('bg-dark')
     })
 
-    $('.btn-light').click(function(light){
+    $('.btn-danger').click(function(light){
         light.preventDefault()
 
         //Remover o CSS existente do nosso tema (jumbotron)

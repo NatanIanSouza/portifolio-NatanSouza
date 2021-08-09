@@ -22,7 +22,7 @@ $(document).ready(function(){
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus voluptates temporibus at deleniti nam dolorem voluptatem perspiciatis nostrum ipsa iusto? Perspiciatis vel deserunt error dolores reiciendis cumque necessitatibus? Modi, molestias?</p>`)
                 $('#modal-info').modal('show')
             break
-            //Se for para abria a página sobre mim...
+            //Se for para abria a página trabalhos...
             case 'Works': 
                 $('.modal-title').append('Meus trabalhos')
                 $('.modal-body').append(` <p class="text-danger" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus voluptates temporibus at deleniti nam dolorem voluptatem perspiciatis nostrum ipsa iusto? Perspiciatis vel deserunt error dolores reiciendis cumque necessitatibus? Modi, molestias?</p>
@@ -31,7 +31,7 @@ $(document).ready(function(){
                 <p class="text-warning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus voluptates temporibus at deleniti nam dolorem voluptatem perspiciatis nostrum ipsa iusto? Perspiciatis vel deserunt error dolores reiciendis cumque necessitatibus? Modi, molestias?</p>`)
                 $('#modal-info').modal('show') 
             break
-            //Se for para abria a página sobre mim...
+            //Se for para abria a página meus clientes...
             case 'Client': 
                 $('.modal-title').append('Meus clientes')
                 $('.modal-body').append(` <p class="text-danger" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus voluptates temporibus at deleniti nam dolorem voluptatem perspiciatis nostrum ipsa iusto? Perspiciatis vel deserunt error dolores reiciendis cumque necessitatibus? Modi, molestias?</p>
@@ -41,7 +41,7 @@ $(document).ready(function(){
                 <p class="text-info" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus voluptates temporibus at deleniti nam dolorem voluptatem perspiciatis nostrum ipsa iusto? Perspiciatis vel deserunt error dolores reiciendis cumque necessitatibus? Modi, molestias?</p>`)
                 $('#modal-info').modal('show') 
             break
-            //Se for para abria a página sobre mim...
+            //Se for para abria a página meus contatos...
             case 'Contact': 
                 $('.modal-title').append('Meus contatos')
                 $('.modal-body').append(` <p class="text-danger" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus voluptates temporibus at deleniti nam dolorem voluptatem perspiciatis nostrum ipsa iusto? Perspiciatis vel deserunt error dolores reiciendis cumque necessitatibus? Modi, molestias?</p>
